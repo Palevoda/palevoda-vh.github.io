@@ -1,2 +1,2 @@
-# palevoda-vh.github.io
+# vitholz
 Статическая версия сайта
